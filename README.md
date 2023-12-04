@@ -1,2 +1,3 @@
 # picgo_resource
 share resource
+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
